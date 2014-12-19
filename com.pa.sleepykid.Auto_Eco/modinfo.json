@@ -1,0 +1,19 @@
+{
+    "context": "client",
+    "identifier": "com.pa.sleepykid.Auto_Eco",
+    "display_name": "Auto Eco",
+    "description": "Puts back the work in progress command auto eco",
+    "author": "sleepykid12",
+    "version": "1.0",
+    "build": "76456",
+    "date": "2014/12/18",
+    "signature": "not yet implemented",
+    "forum": "",
+    "category": [
+        "in-game",
+        "ui"
+    ],
+    "id": "cExodus",
+    "priority": 100,
+    "enabled": true
+}
