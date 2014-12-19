@@ -13,7 +13,16 @@
         "in-game",
         "ui"
     ],
-    "id": "cExodus",
+    "id": "Auto_Eco",
+
     "priority": 100,
+    "scenes": {
+        "live_game": [      
+"coui://ui/mods/bAnchorButtons/live_game/live_game_actionbar.js",
+"coui://ui/mods/bAnchorButtons/live_game/live_game_actionbar.html"
+
+    ]
+  },
+
     "enabled": true
 }
